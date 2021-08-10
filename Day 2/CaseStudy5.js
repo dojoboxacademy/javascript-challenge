@@ -8,10 +8,12 @@ Wanita: Berat badan ideal (kilogram) = [tinggi badan (sentimeter) - 100] - [(tin
 
 nb = silahkan menggunakan input tinggi berdasarkan jenis kelamin Anda masing-masing.
 
+Contoh:
+Jika input jenis kelamin Pria
 Output:
-(Pria)
 Berat badan ideal pria untuk tinggi ... sentimeter adalah ... kilogram
-(Wanita)
+Jika input jenis kelamin Wanita
+Output:
 Berat badan ideal wanita untuk tinggi ... sentimeter adalah ... kilogram
 
 */
