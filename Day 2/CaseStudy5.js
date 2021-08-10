@@ -1,27 +1,14 @@
 /*
+silahkan buat sebuah program dengan java script yang di kaitkan ke sebuah halaman html. 
+yang ketika halaman diload akan menjalankan urutan program sebagai berikut :
 
-Berapa berat badan ideal Anda?
-
-Rumus menghitung
-Pria: Berat badan ideal (kilogram) = [tinggi badan (sentimeter) - 100] - [(tinggi badan (sentimeter) - 100) x 10%]
-Wanita: Berat badan ideal (kilogram) = [tinggi badan (sentimeter) - 100] - [(tinggi badan (sentimeter) - 100) x 15%]
-
-nb = silahkan menggunakan input tinggi berdasarkan jenis kelamin Anda masing-masing.
-
-Contoh:
-Jika input jenis kelamin Pria
-Output:
-Berat badan ideal pria untuk tinggi ... sentimeter adalah ... kilogram
-Jika input jenis kelamin Wanita
-Output:
-Berat badan ideal wanita untuk tinggi ... sentimeter adalah ... kilogram
-
+1. memberikan pilihan luas atau keliling
+2. memberikian pilihan bidang datar diantaranya segi empat, segi panjang, segi tiga, dan lingkaran
+3, masing masing menu yang dipilih akan memberikan parameter berbeda-beda sesuai dengan kebutuhan masing-masing menu
+4. tampilkan hasil perhitunganya di document html
 */
 
-function beratBadanPria() {
 
-}
 
-function beratBadanWanita() {
-    
-}
+
+
